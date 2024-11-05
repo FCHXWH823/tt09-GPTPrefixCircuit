@@ -3,7 +3,7 @@ project:
   title:        "tiny-tapeout-8bit-GPTPrefixCircuit"      # Project title
   author:       "Weihua Xiao"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "In this project, we use GPT model to design prefix circuits automatically."      # One line description of what your project does
+  description:  "In this project, we use large language model to automatically create a totally-new prefix network-based high speed adder, for getting a good trade-off between PPA (power performance and area)."      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
